@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @caipod
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-caipod/caipod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💼 I work as a UI designer.
+- 👀 I’m interested in design, phones, consumer electronics and photography.
+- 🌱 I’m currently learning CSS and HTML.
+- 💞️ I’m looking to collaborate on UI or UX design.
+- 📫 cai89757@gmail.com
